@@ -13,7 +13,7 @@ const Jokes = () => {
     </div>
       
     </section>
-  )
+  )   
 }
 
 export default Jokes
